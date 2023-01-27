@@ -1,0 +1,26 @@
+[
+  {
+    "type": "LARGE",
+    "units": 10
+  },
+  {
+    "type": "XLARGE",
+    "units": 20
+  },
+  {
+    "type": "2XLARGE",
+    "units": 40
+  },
+  {
+    "type": "4XLARGE",
+    "units": 80
+  },
+  {
+    "type": "8XLARGE",
+    "units": 160
+  },
+  {
+    "type": "10XLARGE",
+    "units": 320
+  }
+]

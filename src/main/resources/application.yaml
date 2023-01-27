@@ -1,0 +1,19 @@
+server:
+  port:
+    8080
+spring:
+  jackson:
+    serialization:
+      WRITE_DATES_AS_TIMESTAMPS: false
+  jackson-date-format: yyyy-MM-dd HH:mm:ss
+logging:
+  level:
+    org:
+      machines:
+        test:
+          controller: INFO
+          persistence: INFO
+          service: INFO
+data:
+  capacities: "capacities.json"
+  cost: "cost.json"

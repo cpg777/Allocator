@@ -1,0 +1,77 @@
+[
+  {
+    "region": "NEW_YORK",
+    "resources": [
+      {
+        "type": "10XLARGE",
+        "cost": 2820
+      },
+      {
+        "type": "8XLARGE",
+        "cost": 1400
+      },
+      {
+        "type": "4XLARGE",
+        "cost": 774
+      },
+      {
+        "type": "2XLARGE",
+        "cost": 450
+      },
+      {
+        "type": "XLARGE",
+        "cost": 230
+      },
+      {
+        "type": "LARGE",
+        "cost": 120
+      }
+    ]
+  },
+  {
+    "region": "INDIA",
+    "resources": [
+      {
+        "type": "10XLARGE",
+        "cost": 2970
+      },
+      {
+        "type": "8XLARGE",
+        "cost": 1300
+      },
+      {
+        "type": "4XLARGE",
+        "cost": 890
+      },
+      {
+        "type": "2XLARGE",
+        "cost": 413
+      },
+      {
+        "type": "LARGE",
+        "cost": 140
+      }
+    ]
+  },
+  {
+    "region": "CHINA",
+    "resources": [
+      {
+        "type": "8XLARGE",
+        "cost": 1180
+      },
+      {
+        "type": "4XLARGE",
+        "cost": 670
+      },
+      {
+        "type": "XLARGE",
+        "cost": 200
+      },
+      {
+        "type": "LARGE",
+        "cost": 110
+      }
+    ]
+  }
+]
